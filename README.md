@@ -9,9 +9,9 @@ class pederbr{
         "Abakus veldedige forening" : "Arrangements-ansvarlig"
         }
     
-    Kunnskap = [
+    Erfaring = [
         "Objekt-orientert programmering", 
-        "Web-utvikling", 
+        "Web-utvikling (fullstack)", 
         "Databasespørringer", 
 
         ]
