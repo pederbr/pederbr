@@ -2,9 +2,9 @@
 ```python
 class pederbr{
     
-    navn = "Peder Brennum"
+    Navn = "Peder Brennum"
     
-    frivillige_verv = {
+    Frivillige_verv = {
         "Bedriftskomiteen i Abakus" : "prosjekt BI",  
         "Abakus veldedige forening" : "Arrangements-ansvarlig"
         }
@@ -13,7 +13,7 @@ class pederbr{
         "Objekt-orientert programmering", 
         "Web-utvikling", 
         "Databasespørringer", 
-        
+
         ]
 }
 ```
