@@ -3,6 +3,11 @@
 class pederbr{
     
     Navn = "Peder Brennum"
+
+    Arbeidserfaring = {
+        "Junior Consulting" : "Tech-konsulent"
+        "Asker Bibliotek" : "proggrammerings-instruktør"
+        }
     
     Frivillige_verv = {
         "Bedriftskomiteen i Abakus" : "prosjekt BI",  
